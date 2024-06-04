@@ -25,7 +25,7 @@ This website was created with love by Pratyush. Special thanks to the following 
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own purposes.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify, and distribute the code for your own purposes.
 
 
 
