@@ -13,15 +13,15 @@ Ingredients List: Easily access the list of ingredients required for each recipe
 
 ## How to Contribute
 
-We welcome contributions from fellow food enthusiasts! If you have a favorite recipe you'd like to share or a suggestion to improve, please feel free to submit a pull request with your changes.
+Contributions from fellow food enthusiasts are welcomed! If you have a favorite recipe you'd like to share or a suggestion to improve, please feel free to submit a pull request with your changes.
 
 ## Get in Touch
 
-Have questions or feedback? We'd love to hear from you! Reach out to us here and we'll get back to you as soon as possible.
+Have questions or feedback? I'd love to hear from you!
 
 ## Credits
 
-This website was created with love by Pratyush. Special thanks to the following contributors for their valuable input and support:
+This website was created with love by Pratyush. Special thanks to the odin project
 
 ## License
 
